@@ -1,4 +1,4 @@
-# visitorPattern
+# visitorPatternTwo
 <h3>Software Engineering 2 | Lab Assignment 4</h3>
 <h3>Problem Scenario:</h3>
 
